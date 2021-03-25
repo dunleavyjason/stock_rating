@@ -38,7 +38,7 @@ My motivation for this data science project was to predict a stock’s analyst r
 ---
 
 ### Process
-1. Fetch data from Quandl sources, calculate autoregressive features and financial rations - [historical_data_quandl.ipynb](https://github.com/dunleavyjason/stock_rating/blob/main/historical_data_quandl.ipynb)
+1. Fetch data from Quandl sources, calculate autoregressive features and financial ratios - [historical_data_quandl.ipynb](https://github.com/dunleavyjason/stock_rating/blob/main/historical_data_quandl.ipynb)
 2. Fetch data from FinancialModelingPrep - [historical_data_financial_modeling.ipynb](https://github.com/dunleavyjason/stock_rating/blob/main/historical_data_financialmodelingprep.ipynb)
 3. Merge DataFrames and prep for training - [merge_prep.ipynb](https://github.com/dunleavyjason/stock_rating/blob/main/merge_prep.ipynb)
 4. Train/Test Linear Regression Model - [modeling_linear_regression.ipynb](https://github.com/dunleavyjason/stock_rating/blob/main/modeling_linear_regression.ipynb)

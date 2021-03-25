@@ -4,3 +4,6 @@
 *.pptx
 *.pkl
 *.pickle
+*.joblib
+*.txt
+*.sh

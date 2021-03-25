@@ -400,11 +400,11 @@ predict_df.drop([
  'industry'
  ], axis=1, inplace=True)
 
-model = keras.models.load_model('/Users/dunleavyjason/Documents/Metis/stock_rating/ann_model')
+model = keras.models.load_model('/Users/dunleavyjason/Documents/Metis/stock_rating/ann_model_final')
 
 predict_df_date = pd.DataFrame(predict_df.iloc[-1]).T
 
-ss = joblib.load("ss.joblib")
+ss = joblib.load("std_scaler.joblib")
 predict_df_date_scaled = ss.transform(predict_df_date)
 rating_long = model.predict(predict_df_date_scaled).flat[0]
 rating = round(rating_long,2)

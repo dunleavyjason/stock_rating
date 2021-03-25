@@ -2,7 +2,7 @@
 
 ## Predicting Daily Stock Ratings
 
-*Streamlined daily data points of financial statement, market, forecast, and analyst rating history for over 3,000 publically-traded companies. Using an artificial neural network, predicted a stock's mean daily analyst rating. Utilized Google Cloud Platform, to train and test multiple architectures. On a sccale from 1 (Strong Buy) to 5 (Strong Sell), final model performed with a MAE of 0.73. Designed a Streamlit web app and deployed it via Heroku, enabling users to visualize stock performance and obtain that day's stock rating.*
+*Streamlined daily data points of financial statement, market, forecast, and analyst rating history for over 3,000 publically-traded companies. Using an artificial neural network, predicted a stock's mean daily analyst rating. Utilized Google Cloud Platform, to train and test multiple architectures. On a scale from 1 (Strong Buy) to 5 (Strong Sell), final model performed with a MAE of 0.73. Designed a Streamlit web app and deployed it via Heroku, enabling users to visualize stock performance and obtain that day's stock rating.*
 
 ---
 ### Links

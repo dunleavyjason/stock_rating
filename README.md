@@ -10,6 +10,10 @@
 
 [Metis Directory](https://www.thisismetis.com/graduates)
 
+Streamlit Demo:
+
+[![Streamlit Demo](https://img.youtube.com/vi/w5SIXlhQuqY/0.jpg)](https://youtu.be/w5SIXlhQuqY)
+
 
 ---
 ### Motivation

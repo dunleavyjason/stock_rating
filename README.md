@@ -8,7 +8,9 @@
 ### Links
 [Medium - Blog Post](https://dunleavyjason.medium.com/predicating-daily-stock-ratings-via-artificial-neural-network-9adf4d7c5b44)
 
-[Metis Directory](https://www.thisismetis.com/graduates)
+Project Presentation:
+
+[![Project Presentation](https://www.youtube.com/watch?v=Q2mdbTExcGI)
 
 Streamlit Demo:
 

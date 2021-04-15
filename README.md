@@ -8,13 +8,9 @@
 ### Links
 [Medium - Blog Post](https://dunleavyjason.medium.com/predicating-daily-stock-ratings-via-artificial-neural-network-9adf4d7c5b44)
 
-Project Presentation:
+[Project Presentation](https://www.youtube.com/watch?v=Q2mdbTExcGI)
 
-[![Project Presentation](https://www.youtube.com/watch?v=Q2mdbTExcGI)
-
-Streamlit Demo:
-
-[![Streamlit Demo](https://img.youtube.com/vi/w5SIXlhQuqY/0.jpg)](https://youtu.be/w5SIXlhQuqY)
+[Streamlit Demo](https://youtu.be/w5SIXlhQuqY)
 
 
 ---
